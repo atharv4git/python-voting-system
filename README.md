@@ -1,4 +1,3 @@
-# Online Voting System for Elections
- It is a desktop application made with socket programming in Python. It uses synchronous multithreading. 
- 
- For details on this project, please read the <a href="https://github.com/shah-deep/Online-Voting-System/blob/main/Report.pdf">Report</a>.
+# Python Voting System
+* voting system for your school/college
+* a simple edit and you got a professional voting sytem on the go!
